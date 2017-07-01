@@ -16,7 +16,18 @@ git branch nouvellebranche | crée une branche sur laquelle travailler le projet
 
 git checkout labranchecreee | permet de basculer dessus
 
- 
 
-aaa"osef putain"  
-aaajezvzevjpzvvzvzj  
+		BONNES PRATIQUES 
+
+---------------------------------------------
+
+the procedure should be the below:
+
+	pull the file
+	edit it
+	commit it(it commits to your local repository)
+	pull it again (if there are any conflict you will Be notified) in that case you can solve it executing the below command(GitBash on your repository working folder):
+
+	git mergetool 
+
+---------------------------------------------
