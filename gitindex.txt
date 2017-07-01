@@ -1,0 +1,22 @@
+git init chemin/dossier | définit un dépot git en lui attribuant .git et les fichiers sous-jacents
+
+git commit --all -m "Mon message"
+
+git add fichier | ajoute tel fichier au projet...
+
+git status | vérifier les états des fichiers...
+
+git log [--oneline...] | permet de voir les changements apportés au projet sur la branche actuelle avec l'identifiant sha1 du commit
+
+git config --global user.name "Samy Khirat" | définit mon nom sur l'ensemble de mes projets
+
+git config user.email "magickupo@gmail.com" | définit mon email sur un seul projet..
+
+git branch nouvellebranche | crée une branche sur laquelle travailler le projet...
+
+git checkout labranchecreee | permet de basculer dessus
+
+ 
+
+aaa"osef putain"  
+aaajezvzevjpzvvzvzj  
